@@ -13,5 +13,5 @@ plt.yticks([0, 500, 1000, 1500, 2000, 2500, 3000])
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 
-plt.savefig("calorie_log.png")
+plt.savefig("calorie_plot.png")
 plt.show()
